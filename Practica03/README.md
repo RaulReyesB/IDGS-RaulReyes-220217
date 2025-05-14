@@ -8,7 +8,7 @@
 **Universidad:** Universidad Tecnologica de Xicotepec de Juarez
 **Materia:** Extracción de Conocimientos de Base de Datos  
 **Profesor:** Marco A. Ramírez Hernández  
-**Alumno:** Carolina Arias Reyes  
+**Alumno:** Raul Reyes Batalla
 **Grupo:** 9A IDGS  
 **Fecha:** 14/05/2025  
 
